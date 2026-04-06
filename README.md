@@ -1,6 +1,4 @@
-Here is a clean, professional README.md for your project based on your repo and similar implementations of AI auto-reply chatbots 👇
 
-You can copy-paste directly into GitHub ✅
 
 
 ---
